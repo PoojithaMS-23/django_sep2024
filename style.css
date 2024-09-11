@@ -1,0 +1,12 @@
+#h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#h2,h3{
+    border-color:green;
+}
+#h4,h5{
+    background-color: aliceblue;
+}
+#h6{
+    border: 10cap;
+}
